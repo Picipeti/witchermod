@@ -1,17 +1,13 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "Witcher",
+		"unitType": "Sword",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"replaces": "Longswordsman",
+		"movement": 4,
+		"strength": 50,
 		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"requiredTech": "Steel",
+		"attackSound": "metalhit"
 	}
 ]
