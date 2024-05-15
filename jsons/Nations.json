@@ -29,7 +29,7 @@
 
 		"outerColor": [50,10,10],
 		"innerColor": [255,5,5],
-		"unique": "GERALT_OF_RIVIA",
+		"unique": ["Free [Witcher] appears <upon discovering [Steel] technology>"],
 		"cities": ["Kaer Morhen","Vizima","Oxenfurt","Novigrad","Cintra","Maribor","Skellige"]
 	}
 ]
