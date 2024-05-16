@@ -2,7 +2,7 @@
 	{
 		"name": "Witcher",
 		"unitType": "Sword",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Witchers",
 		"replaces": "Longswordsman",
 		"movement": 4,
 		"strength": 50,
