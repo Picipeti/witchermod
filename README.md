@@ -1,5 +1,19 @@
-# Unciv-mod-example
+#Unciv-witcher-mod
 
-An example mod for Unciv, that adds one new Civilization.
+The witcher mod aims to add a civ that has a unique unit which is so strong, you need a small army to take it down, but this unit has a production cost of 500, which is more than most pre-modern wonders.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+unit: Witcher
+strength: 50
+movement: 4
+production cost: 500
+
+This mod and it's lore is based on "the Witcher" by CDPR.
+
+This mod is unfinished, and i'm still working on it. When it's done, the mod will have :
+
+1 civ,
+1 unique unit,
+1 building,
+a unique ability,
+icons for the units and the civ,
+and a penalty for having too many witchers.
