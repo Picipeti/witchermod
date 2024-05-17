@@ -16,4 +16,5 @@ This mod is unfinished, and i'm still working on it. When it's done, the mod wil
 1 building,
 a unique ability,
 icons for the units and the civ,
-and a penalty for having too many witchers.
+and a penalty for having too many witchers since you are not supposed to have more than at most 3.
+
