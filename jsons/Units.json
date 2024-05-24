@@ -27,7 +27,7 @@
 		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 15,
-		"cost": 20,
+		"cost": 60,
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
 	},
@@ -39,7 +39,7 @@
 		"movement": 2,
 		"strength": 10,
 		"rangedStrength":20,
-		"cost": 40,
+		"cost": 70,
 		"requiredTech": "Machinery",
 		"attackSound": "metalhit"
 	},
