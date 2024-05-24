@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Laboratory",
+		"replaces": "Observatory",
+		"uniqueTo": "Witchers",
+    "maintenance": 5,
+    "Science": 20,
+		"cityStrength": 12,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+       	"cost": 350,
+		"requiredTech": "Astronomy"
+	},
+	{
+		"name": "Swords of the Fallen",
+		"replaces": "Temple",
+		"uniqueTo": "Witchers", 
+		"maintenance": 4,
+		"faith": 2,
+		"culture": 2,
+		"hurryCostModifier": 25,
+       		"cost": 100,
+		"uniques": ["[+1 Production] from [Mine] tiles [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "High Castle",
+		"replaces": "Castle",
+		"uniqueTo": "Temeria",
+		"faith": 10,
+		"maintenance": 10,
+		"specialistSlots": {"Artist": 1, "Engineer": 1},
+		"cityStrength": 10,
+		"cityHealth": 100,
+       		"cost": 400,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["Provides 1 Artist and 1 Engineer specialist slots."],
+		"requiredTech": "Chivalry"
+	},
+{
+		"name": "Counsil of Sorcery",
+		"replaces": "Opera House",
+		"uniqueTo": "Viet Nam", 
+		"science": 3,
+		"happiness": -1,
+		"specialistSlots": {"Scientist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Library",
+		"maintenance": 2,
+		"uniques": ["[+2 Science] from [Lakes] tiles [in this city]"]
+		"requiredTech": "Acoustics"
+	},
+
+		{
+		"name": "Mahakam gate",
+		"replaces": "Walls",
+		"uniqueTo": "Mahakam",
+		"cityStrength": 30,
+		"cityHealth": 300,
+		"cost": 50,
+		"requiredTech": "Agriculture",
+	},
+		{
+		"name": "Mineshafts",
+		"replaces": "Barracks",
+		"uniqueTo": "Mahakam", 
+		"hurryCostModifier": 25,
+       	"cost": 100,
+		"production": 3,
+		"maintenance": 2,
+		"uniques": ["[+1 Production] from [Hill] tiles [in this city]"],
+		"requiredTech": "Physics"
+	},
