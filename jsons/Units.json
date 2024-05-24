@@ -9,5 +9,38 @@
 		"cost": 500,
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
-	}
+	},
+	{
+		"name": "Sorcerer",
+		"unitType": "Ranged",
+		"uniqueTo": "Witchers",
+		"replaces": "Great Prophet",
+		"movement": 4,
+		"strength": 1,
+		"rangedStrength": 25,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Temerian Infantry",
+		"unitType": "Sword",
+		"uniqueTo": "Temeria",
+		"replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 15,
+		"cost": 20,
+		"requiredTech": "Steel",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Lyrian Arbalest",
+		"unitType": "Archery",
+		"uniqueTo": "Temeria",
+		"replaces": "Crossbowman",
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength":20,
+		"cost": 40,
+		"requiredTech": "Machinery",
+		"attackSound": "metalhit"
+	},
 ]
