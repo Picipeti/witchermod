@@ -43,4 +43,27 @@
 		"requiredTech": "Machinery",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Iorveth's archers",
+		"unitType": "Archery",
+		"uniqueTo": "Mahakam",
+		"replaces": "Crossbowman",
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength":25,
+		"cost": 200,
+		"requiredTech": "Machinery",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Dwarf",
+		"unitType": "Sword",
+		"uniqueTo": "Mahakam",
+		"replaces": "Longswordsman",
+		"movement": 1,
+		"strength": 35,
+		"cost": 150,
+		"requiredTech": "Steel",
+		"attackSound": "metalhit"
+	},
 ]
