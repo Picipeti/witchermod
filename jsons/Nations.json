@@ -57,6 +57,31 @@
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
 		"cities": ["Vizima","Maribor","White Orchard","Flotsam","Loc Muinne","Marlboro"]
 	},
+	{
+		"name": "Mahakam",
+		"leaderName": "Zoltan Chivay",
+		"adjective": ["Mahakaman"],
+		"preferredVictoryType": "Culture",
+
+        "startIntroPart1": "Welcome dwarf, you, Zoltan Chivay have fought alongside the other kingdoms and yet you live. lead our civilization to victory!",
+        "startIntroPart2": "Use our settlers and impenetrable gates to make strongholds anywhere.",
+
+        "declaringWar": "Aye, I had hoped it wouldn't come down to this.",
+		"attacked": "You? Attack Mahakam? The best defended territory in the northern kingdoms? You are funny, care to join me at the inn?",
+		"defeated": "You are truly an amazing leader, all i ask is that you destroy Nilfgaard.",
+		"introduction": "'Yarpen, CLOSE THE DAMN GATE', Aye, welcome to Mahakam.",
+		"neutralHello": "Hello, inn's that way.",
+		"hateHello": "Hello, graveyard's that way. What the fuck is wrong with you? Get the hell out of Mahakam.",
+		"tradeRequest": "Accept and the next round's on me! Ha ha.",
+
+        "outerColor": [255, 153, 0],
+        "innerColor": [255, 225, 0],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Elder gods' pantheon",
+		"uniques": ["[+3 Gold] from every [Mine]"],
+		"cities": ["Mount Carbon","Vergen","Gullbratt","Fornlam","Craag Ros"]
+	},
 ]
 	
 
