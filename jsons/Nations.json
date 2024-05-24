@@ -31,5 +31,29 @@
 		"innerColor": [255,5,5],
 		"unique": ["Free [Witcher] appears <upon discovering [Steel] technology>"],
 		"cities": ["Kaer Morhen","Vizima","Oxenfurt","Novigrad","Cintra","Maribor","Skellige"]
-	}
+	},
+	{
+		"name": "Temeria",
+		"leaderName": "King Foltest",
+		"adjective": ["Temerian"],
+		"preferredVictoryType": "Culture",
+
+        "startIntroPart1": "Greetings to you, King Foltest of temeria, can you lead temeria to victory? Or will you crumble under pressure?",
+        "startIntroPart2": "Great king, a wide man so fast he sliced 5 men in one swing is coming for you. We estimate you have about 500 turns before he arrives",
+
+        "declaringWar": "Hand me the assasin, NOW!",
+		"attacked": "Ah, just as the nilfgaardian scum. i. will. kill. you.",
+		"defeated": "So it was not Letho after all. I Surrender.",
+		"introduction": "Greetings. I am King Foltest of Temeria. We can trade or we can fight. Your choice.",
+		"neutralHello": "What do you seek?",
+		"hateHello": "Get the hell out of my court before I regret sparing you.",
+		"tradeRequest": "My friend, shall we prosper together?",
+
+        "outerColor": [66, 135, 245],
+        "innerColor": [144, 144, 145],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Temerian pantheon",
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+		"cities": ["Vizima","Maribor","White Orchard","Flotsam","Loc Muinne","Marlboro"]
 ]
