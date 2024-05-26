@@ -66,4 +66,25 @@
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Zerrikanian Fire Scorpion",
+		"unitType": "Siege",
+		"uniqueTo": "Nilfgaardian Empire",
+		"replaces": "Trebuchet",
+		"movement": 2,
+		"strength": 35,
+		"cost": 500,
+		"requiredTech": "Physics",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Spy",
+		"unitType": "Civilian",
+		"uniqueTo": "Nilfgaardian Empire",
+		"movement": 4,
+		"strength": 10,
+		"cost": 150,
+		"requiredTech": "Philosophy",
+		"attackSound": "metalhit"
+	},
 ]
