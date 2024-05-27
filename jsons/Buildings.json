@@ -72,4 +72,15 @@
 		"uniques": ["[+1 Production] from [Hill] tiles [in this city]"],
 		"requiredTech": "Physics"
 	},
+{
+		"name": "Vineyard",
+		"replaces": "Temple",
+		"uniqueTo": "Duchy of Touissant", 
+		"hurryCostModifier": 25,
+       		"cost": 100,
+		"happiness": 4,
+		"maintenance": 2,
+		"uniques": ["[+1 Culture] from [Wine] tiles [in this city]"],
+		"requiredTech": "Philosophy"
+	},
 ]
