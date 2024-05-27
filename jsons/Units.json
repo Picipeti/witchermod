@@ -91,10 +91,11 @@
 		"name": "Nauzicaa Brigade",
 		"unitType": "Sword",
 		"uniqueTo": "Nilfgaardian Empire",
-		"movement": 4,
-		"strength": ,
-		"cost": 150,
-		"requiredTech": "Philosophy",
+"replaces": "Knight",
+		"movement": 5,
+		"strength": 23,
+		"cost": 80,
+		"requiredTech": "Chivalry",
 		"attackSound": "metalhit"
 	},
 ]
