@@ -94,8 +94,41 @@
 "replaces": "Knight",
 		"movement": 5,
 		"strength": 23,
-		"cost": 80,
+		"cost": 180,
 		"requiredTech": "Chivalry",
 		"attackSound": "metalhit"
 	},
+{
+		"name": "Imperial Brigade",
+		"unitType": "Sword",
+		"uniqueTo": "Nilfgaardian Empire",
+		"replaces": "Pikeman",
+		"movement": 2,
+		"strength": 13,
+		"cost": 45,
+		"requiredTech": "Civil Service",
+		"attackSound": "metalhit"
+},
+{
+		"name": "Knight Errant",
+		"unitType": "Sword",
+		"uniqueTo": "Duchy of Touissant",
+		"replaces": "Knight",
+		"movement": 5,
+		"strength": 25,
+		"cost": 230,
+		"requiredTech": "Chivalry",
+		"attackSound": "metalhit"
+},
+{
+		"name": "",
+		"unitType": "Siege",
+		"uniqueTo": "Nilfgaardian Empire",
+		"replaces": "Trebuchet",
+		"movement": 2,
+		"strength": 35,
+		"cost": 500,
+		"requiredTech": "Physics",
+		"attackSound": "metalhit"
+},
 ]
