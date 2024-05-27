@@ -83,4 +83,16 @@
 		"uniques": ["[+1 Culture] from [Wine] tiles [in this city]"],
 		"requiredTech": "Philosophy"
 	},
+{
+		"name": "Royal Palace",
+		"replaces": "Castle",
+		"uniqueTo": "Nilfgaardian Empire", 
+		"hurryCostModifier": 25,
+       		"cost": 1000,
+		"happiness": 10,
+		"maintenance": 20,
+		"uniques": ["[+1 Happiness] from [Horse] tiles [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+
 ]
