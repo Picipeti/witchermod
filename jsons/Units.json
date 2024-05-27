@@ -121,14 +121,13 @@
 		"attackSound": "metalhit"
 },
 {
-		"name": "",
-		"unitType": "Siege",
-		"uniqueTo": "Nilfgaardian Empire",
-		"replaces": "Trebuchet",
+		"name": "Vampire",
+		"unitType": "Sword",
+		"uniqueTo": "Duchy of Touissant",
+		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 35,
-		"cost": 500,
-		"requiredTech": "Physics",
+		"strength": 9,
+		"cost": 30,
 		"attackSound": "metalhit"
 },
 ]
