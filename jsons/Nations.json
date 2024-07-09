@@ -104,7 +104,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Church of the Eternal fire",
-		"uniques": ["[+20 Gold] from every [Palace]","[-5 Happiness] from every [Monument]","[-5 Happiness] from every [Bank]","[+2 Cultural] from every [Palace]","[-10 Happiness] from every [Observatory]","[-1 Happiness] from every [Palace],"  ],
+		"uniques": ["[+20 Gold] from every [Palace]","[-5 Happiness] from every [Monument]","[-5 Happiness] from every [Bank]","[+2 Culture] from every [Palace]","[-10 Happiness] from every [Observatory]","[-1 Happiness] from every [Palace],"  ],
 		"cities": ["Nilfgaard","Castel Graupian","Loc Grim","De Wett's Princedom","Voorhis' Princedom"]
 	},
 {
@@ -129,7 +129,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Palace of Beauclair",
-		"uniques": ["[+1 Food] per [2] population [in this city]","[+1 Cultural] from every [Wine]","[+2 Happiness] from every [Wine]"  ],
+		"uniques": ["[+1 Food] per [2] population [in this city]","[+1 Culture] from every [Wine]","[+2 Happiness] from every [Wine]"  ],
 		"cities": ["Beauclair","Card Myrkvid","Zurbarran","Corvo","Dun Tynne","Tufo
 "]
 	},
