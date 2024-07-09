@@ -91,7 +91,7 @@
 		"name": "Nauzicaa Brigade",
 		"unitType": "Sword",
 		"uniqueTo": "Nilfgaardian Empire",
-"replaces": "Knight",
+		"replaces": "Knight",
 		"movement": 5,
 		"strength": 23,
 		"cost": 180,
@@ -109,6 +109,17 @@
 		"requiredTech": "Civil Service",
 		"attackSound": "metalhit"
 },
+{
+		"name": "Imperial Enforcers",
+		"unitType": "Archery",
+		"uniqueTo": "Nilfgaardian Empire",
+		"replaces": "Crossbowman",
+		"movement": 2,
+		"strength": 1,
+		"cost": 45,
+		"requiredTech": "Civil Service",
+		"attackSound": "metalhit"
+},	
 {
 		"name": "Knight Errant",
 		"unitType": "Sword",
