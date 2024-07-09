@@ -36,7 +36,7 @@
 		"name": "Temeria",
 		"leaderName": "King Foltest",
 		"adjective": ["Temerian"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 
         "startIntroPart1": "Greetings to you, King Foltest of temeria, can you lead temeria to victory? Or will you crumble under pressure?",
         "startIntroPart2": "Great king, a wide man so fast he sliced 5 men in one swing is coming for you. We estimate you have about 500 turns before he arrives",
@@ -61,7 +61,7 @@
 		"name": "Mahakam",
 		"leaderName": "Zoltan Chivay",
 		"adjective": ["Mahakaman"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 
         "startIntroPart1": "Welcome dwarf, you, Zoltan Chivay have fought alongside the other kingdoms and yet you live. lead our civilization to victory!",
         "startIntroPart2": "Use our settlers and impenetrable gates to make strongholds anywhere.",
@@ -104,14 +104,14 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Church of the Eternal fire",
-		"uniques": ["[+20 Gold] from every [Palace]","[-5 Happiness] from every [Monument]","[-5 Happiness] from every [Bank]","[+2 Culture] from every [Palace]","[-10 Happiness] from every [Observatory]","[-1 Happiness] from every [Palace],"  ],
+		"uniques": ["[+20 Gold] from every [Palace]","[-5 Happiness] from every [Monument]","[-5 Happiness] from every [Bank]","[+2 Cultural] from every [Palace]","[-10 Happiness] from every [Observatory]","[-1 Happiness] from every [Palace],"  ],
 		"cities": ["Nilfgaard","Castel Graupian","Loc Grim","De Wett's Princedom","Voorhis' Princedom"]
 	},
 {
 		"name": "Duchy of Toussaint",
 		"leaderName": "Anna Henrietta",
 		"adjective": ["Toussanian"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 
         "startIntroPart1": "Rise and shine, Grand imperial high nilfgaardian empereor Emhyr var Emreis",
         "startIntroPart2": "Lead our great empire to victory using our cavalry and exceedingly strong spies.",
@@ -129,7 +129,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Palace of Beauclair",
-		"uniques": ["[+1 Food] per [2] population [in this city]","[+1 Culture] from every [Wine]","[+2 Happiness] from every [Wine]"  ],
+		"uniques": ["[+1 Food] per [2] population [in this city]","[+1 Cultural] from every [Wine]","[+2 Happiness] from every [Wine]"  ],
 		"cities": ["Beauclair","Card Myrkvid","Zurbarran","Corvo","Dun Tynne","Tufo
 "]
 	},
