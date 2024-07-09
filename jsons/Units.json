@@ -115,7 +115,8 @@
 		"uniqueTo": "Nilfgaardian Empire",
 		"replaces": "Crossbowman",
 		"movement": 2,
-		"strength": 1,
+		"strength": 15,
+		"rangedStrength": 13
 		"cost": 45,
 		"requiredTech": "Civil Service",
 		"attackSound": "metalhit"
